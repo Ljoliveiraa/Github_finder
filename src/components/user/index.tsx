@@ -34,7 +34,6 @@ export const User = ({
             <div className="number">{followers}</div>
           </div>
         )}
-        {/* <div className="border">|</div> */}
         {following && (
           <div className="following">
             <div>seguindo:</div>
